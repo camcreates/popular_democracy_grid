@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="286.334px" height="71.539px" viewBox="0 0 286.334 71.539" enable-background="new 0 0 286.334 71.539"
+	 xml:space="preserve">
+<text transform="matrix(1 0 0 1 94.7588 23.2798)"><tspan x="0" y="0" fill="#455560" font-family="'Folio-CondensedBold'" font-size="17">THE  </tspan><tspan x="-22.337" y="20.4" fill="#455560" font-family="'Folio-CondensedBold'" font-size="17">CENTER  </tspan><tspan x="-0.935" y="40.799" fill="#455560" font-family="'Folio-CondensedBold'" font-size="17">FOR </tspan></text>
+<text transform="matrix(1 0 0 1 120.4976 34.2798)"><tspan x="0" y="0" fill="#F58220" font-family="'Folio-CondensedBold'" font-size="40">POPULAR</tspan><tspan x="0" y="33" fill="#F58220" font-family="'Folio-CondensedBold'" font-size="40">DEMOCRACY</tspan></text>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M66,53.507c0,6.277-5.628,11.365-12.571,11.365H12.571C5.628,64.872,0,59.784,0,53.507V16.57
+			C0,10.294,5.628,4.872,12.571,4.872h40.857C60.372,4.872,66,10.294,66,16.57V53.507z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<circle clip-path="url(#SVGID_2_)" fill="#F58220" cx="58.132" cy="59.299" r="21.979"/>
+	<path clip-path="url(#SVGID_2_)" fill="#F58220" d="M61,30.295c0,1.976-1.343,3.577-3,3.577l0,0c-1.657,0-3-1.602-3-3.577V6.449
+		c0-1.976,1.343-3.577,3-3.577l0,0c1.657,0,3,1.602,3,3.577V30.295z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#F58220" d="M26,55.872c1.657,0,3,1.344,3,3l0,0c0,1.656-1.343,3-3,3H6
+		c-1.657,0-3-1.344-3-3l0,0c0-1.656,1.343-3,3-3H26z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#F58220" d="M36.495,34.124c2.109,2.109,2.869,4.769,1.698,5.94l0,0
+		c-1.171,1.171-3.832,0.411-5.94-1.698L6.791,12.905c-2.109-2.109-2.87-4.769-1.698-5.94l0,0c1.171-1.171,3.832-0.411,5.94,1.698
+		L36.495,34.124z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#F58220" d="M29.851,45.085c1.277,0.525,1.804,2.193,1.173,3.727l0,0
+		c-0.629,1.531-2.175,2.349-3.453,1.824l-15.424-6.335c-1.277-0.524-1.803-2.192-1.173-3.725l0,0
+		c0.629-1.533,2.176-2.35,3.453-1.825L29.851,45.085z"/>
+	<path clip-path="url(#SVGID_2_)" fill="#F58220" d="M49.086,32.22c0.349,0.848-0.611,2.046-2.143,2.676l0,0
+		c-1.532,0.63-3.057,0.453-3.406-0.395l-4.208-10.236c-0.349-0.848,0.611-2.046,2.143-2.676l0,0c1.533-0.63,3.057-0.453,3.406,0.395
+		L49.086,32.22z"/>
+</g>
+</svg>
