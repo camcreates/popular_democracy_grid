@@ -18,7 +18,7 @@
         var defaults = {
             containerWidth : 960,                   // fixed (px)
             containerHeight : 120,                  // fixed (px)
-            headerWidth : 48,                       // fixed (px)
+            headerWidth : 80,                       // fixed (px)
             
             responsive : false,                     // overrides the above three settings, accordion adjusts to fill container
             autoScaleImages : false,                // if a single image is placed within the slide, this will be automatically scaled to fit
