@@ -1,6 +1,6 @@
 body{
  	background-color:#000;
- 	background-image:url(../images/green-fibers.png);
+ 	background-image:url(../images/green_cup.png);
 
 }
 p{
@@ -103,7 +103,7 @@ nav ul li ul li {
   background: #f26903; 
   display: block; 
   color: #fff;
-  text-shadow: 0 1px 0 #442914;
+  /*text-shadow: 0 1px 0 #442914;*/
 }
 nav ul li ul li:hover { background: #ff852d; }
 nav ul li:hover ul {
