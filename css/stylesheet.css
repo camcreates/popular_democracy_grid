@@ -42,8 +42,8 @@ header {
  	margin: 30% 0 0 0;
  	text-align:left;
  	padding: 1% 1% 1%;
- 	color:white;
- 	background: rgba(245,130,32,.75);
+ 	color:black;
+ 	background: rgba(192,246,255,.75);
 }
 nav{
 	margin: auto;
@@ -76,7 +76,7 @@ nav ul li {
   font-weight:100;
 }
 nav ul li:hover {
-  background: #f26903;
+  background: #efa106;
   color: #fff;
 }
 nav ul li ul {
@@ -100,7 +100,7 @@ nav ul li ul {
   color:white;
 }
 nav ul li ul li { 
-  background: #f26903; 
+  background: #efa106; 
   display: block; 
   color: #fff;
   text-shadow: 0 1px 0 #442914;
@@ -142,12 +142,12 @@ nav ul li:hover ul {
 }
 
 #nav2 p {
-	background-color:#00698e;
+	background-color:#efa106;
 	padding: 0 2% 0 2%;
 }
 
 #nav2 h3 {
-	background-color:#00698e;
+	background-color:#efa106;
 	padding-top:1%;
 }
 #aside{

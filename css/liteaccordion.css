@@ -74,7 +74,7 @@
 .liteAccordion noscript p { padding: 10px; margin: 0; background: white }
 
 /****************************************** Basic */
-.liteAccordion.basic .slide > h2 { background: #0c9bd7; color: white; line-height: 225% }
+.liteAccordion.basic .slide > h2 { background: #f26903; color: white; line-height: 225% }
 
 /****************************************** Dark */
 .liteAccordion.dark {
