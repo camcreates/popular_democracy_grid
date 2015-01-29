@@ -198,7 +198,8 @@ p{
 
 
 h1{
-	font-family: 'Open Sans Condensed ', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight:700;
 	font-size: 1.5em;
 	padding: 2%;
 	text-align:left;
@@ -428,7 +429,13 @@ footer{
 .footerlinks:hover{
 	color:#f58220;
 }
-
+.titlelinks{
+	text-decoration:none;
+	color:#32383d;
+}
+.titlelinks:hover{
+	color:#f58220;
+}
 .socialbutton {
 	text-decoration:none;
 	color:white;
