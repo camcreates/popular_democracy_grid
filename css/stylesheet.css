@@ -243,6 +243,10 @@ h3{
 	margin:0 3% 0 3%;
 
 }
+
+.sm ul li:hover{
+	box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.1);
+}
 .fbicon{
 	background-color:#375abe;
 		padding: 3% 4% 3% 4%;
