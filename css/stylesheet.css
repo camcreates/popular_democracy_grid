@@ -5,7 +5,7 @@ body{
 }
 p{
 	font-family: 'Josefin Sans', sans-serif;
-	font-weight:100;
+	font-weight:300;
 	line-height:18px;
 }
 header {
@@ -245,15 +245,15 @@ h3{
 }
 .fbicon{
 	background-color:#375abe;
-		padding: 5% 6% 5% 6%;
+		padding: 3% 4% 3% 4%;
 }
 .twicon{
 	background-color:#009aed;
-		padding: 5%;
+		padding: 3%;
 }
 .yticon{
 	background-color:#d21e2f;
-		padding: 5%;	
+		padding: 3%;	
 }
 .sm_s{
 	text-align:right;
