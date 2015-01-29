@@ -442,3 +442,35 @@ footer{
 	text-decoration:none;
 	color:white;
 }
+
+
+.search_f {
+  position: relative;
+   text-align:center;
+   margin-top:2%;
+   margin-left:50%;
+
+/*
+
+  color: #aaa;
+  font-size: 16px;
+ 
+*/
+}
+
+.search_f input {
+  width: 200px;
+  height: 3em;
+  background: #ffffff;
+}
+
+.search_f input { text-indent: 12px;}
+
+.search_f .fa-search { 
+  position: absolute;
+  margin-top: 1.5%;
+  margin-left: -8%;
+  color:#f58220;
+  font-size:1.5em;
+}
+
