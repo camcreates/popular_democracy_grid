@@ -4,9 +4,10 @@ body{
 
 }
 p{
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight:300;
-	line-height:18px;
+	line-height:25px;
+	font-size:13px;
 }
 header {
 	/*
@@ -72,7 +73,7 @@ nav ul li {
   -ms-transition: all 0.2s;
   -o-transition: all 0.2s;
   transition: all 0.2s;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight:100;
 }
 nav ul li:hover {
@@ -193,6 +194,7 @@ p{
 	padding-top:1%;
 }
 .divider{
+	clear:both;
 	padding:1% 0 1% 10%;
 	width:75%;
 	margin:0;
@@ -200,7 +202,7 @@ p{
 
 
 h1{
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight:700;
 	font-size: 1.5em;
 	padding: 2%;
@@ -351,8 +353,9 @@ footer{
 	max-width:75%;
 	margin:auto;
 	color:#e9e9e9;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight:100;
+	font-size:13px;
 
 }
 
@@ -476,5 +479,8 @@ footer{
   margin-left: -8%;
   color:#f58220;
   font-size:1.5em;
+}
+#yourdiv p{
+	line-height:20px;
 }
 
