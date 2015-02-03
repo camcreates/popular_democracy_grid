@@ -1,9 +1,10 @@
-body{
+body {
  	background-color:#000;
  	background-image:url(../images/green_cup.png);
 
 }
-p{
+
+p {
 	font-family: 'Open Sans', sans-serif;
 	font-weight:300;
 	line-height:25px;
@@ -46,6 +47,7 @@ header {
  	color:white;
  	background: rgba(0,0,0,0.75);
 }
+
 nav{
 	margin: auto;
 	max-width:75%;
