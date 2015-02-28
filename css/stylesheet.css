@@ -17,6 +17,13 @@ header {
 	background-color:white;
 }
 
+a{
+	color:#F58220;
+	font-weight:bold;
+	text-decoration: none;
+
+}
+
 .logo{
 	float:left;
 }
