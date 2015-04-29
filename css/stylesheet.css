@@ -152,9 +152,6 @@ nav ul li:hover ul {
 	background-color:#e9e9e9;
 }
 
-.sidebar{
-	font-weight:700;
-}
 main{
 	background-color:#f8f8f8;
 	max-width:75%;
@@ -475,4 +472,9 @@ footer{
   margin-left: -8%;
   color:#f58220;
   font-size:1.5em;
+}
+
+.summary p {
+	line-height:1.5em;
+	text-align:justify;
 }
